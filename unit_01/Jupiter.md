@@ -7,4 +7,5 @@ Jupiter orbits the Sun at a distance of 5.20 AU (778.5 Gm), with an orbital peri
 It is the third brightest natural object in the Earth's night sky, after the Moon and Venus, and has been observed since prehistoric times.
 Its name derives from that of Jupiter, the chief deity of ancient Roman religion.
 
-Jupiter is not a planet.
+Jupiter is a planet. Everyone agrees.
+
