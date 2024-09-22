@@ -8,3 +8,4 @@ It is the third brightest natural object in the Earth's night sky, after the Moo
 Its name derives from that of Jupiter, the chief deity of ancient Roman religion.
 
 Jupiter is a planet. Everyone agrees.
+
