@@ -6,3 +6,5 @@ Its diameter is eleven times that of Earth, and a tenth that of the Sun.
 Jupiter orbits the Sun at a distance of 5.20 AU (778.5 Gm), with an orbital period of 11.86 years.
 It is the third brightest natural object in the Earth's night sky, after the Moon and Venus, and has been observed since prehistoric times.
 Its name derives from that of Jupiter, the chief deity of ancient Roman religion.
+
+Jupiter is not a planet.
